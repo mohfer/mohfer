@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## About Me
 
-- 💻 I specialize in Web Development, Desktop App Development.
-- 🌱 Currently learning Typescript.
-- ⚡ Fun fact: 404 Not Found.
+- 💻 I specialize in **Web Development, Desktop App Development.**
+- 🌱 Currently learning **Typescript.**
+- ⚡ Fun fact: **404 Not Found.**
 
 ## Projects
 
