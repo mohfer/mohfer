@@ -30,7 +30,7 @@ QR-based item lending application designed to facilitate the process of borrowin
 
 - 📫 You can reach me at verdian352@gmail.com.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamad-ferdiansyah-95596628a/).
-- 🐦 Follow me on [Instagram](https://www.instagram.com/ferdiixyz__/).
+- 📷 Follow me on [Instagram](https://www.instagram.com/ferdiixyz__/).
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
